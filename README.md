@@ -1,4 +1,5 @@
 ﻿# Web_Automation
+Works in chrome browser! <br/>
 Clone the repo in a folder <br/>
 install chromium from : https://chromium.woolyss.com/download/en/ <br/>
 also you must have node js installed. Please do it : https://nodejs.org/en/ <br/>
